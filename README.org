@@ -1,0 +1,9 @@
+* getopt
+
+Common Lisp library for parsing command-line arguments
+
+|---------+----------------------------------|
+| source  | git:http://git.kpe.io/getopt.git |
+| commit  | 2df7c30                          |
+| systems | getopt                           |
+|---------+----------------------------------|
